@@ -1,0 +1,5 @@
+policy                     beta(a.u.)  reduction%  energy  rate(Hz)  red%/energy
+no stimulation             0.453         0.0     0.000   7.6      -
+open-loop (A=4)            0.365        19.5     0.842   5.2      23.1
+closed-loop gated (A=4)    0.380        16.1     0.344   5.3      46.9
+closed-loop integral       0.423         6.6     0.932   4.8      7.1
